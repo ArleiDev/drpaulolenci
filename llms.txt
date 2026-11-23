@@ -1,0 +1,38 @@
+# Dr. Paulo Lenci · Dentista em Limeira-SP
+
+> Consultório odontológico do Dr. Paulo Lenci, cirurgião-dentista formado pela Unicamp, na Vila Cláudia, em Limeira (SP). Atende estética dental, implantes e próteses, ATM e dor orofacial (DTM, bruxismo) e ronco e apneia do sono com o aparelho Silent. Agendamento pelo WhatsApp (19) 98938-5757.
+
+## Contato e localização
+
+- Nome: Dr. Paulo Lenci · Odontologia
+- Profissão: cirurgião-dentista (dentista)
+- Endereço: Rua João Machado Gomes, 73 – Vila Cláudia, Limeira – SP, Brasil
+- Telefone e WhatsApp: (19) 98938-5757 · https://wa.me/5519989385757
+- Horário: segunda a sexta, 08:00–11:30 e 13:30–17:00. Sábado e domingo fechado.
+- Site: https://arleidev.github.io/drpaulolenci/
+- Como chegar (Google Maps): https://www.google.com/maps/dir/?api=1&destination=Rua+Jo%C3%A3o+Machado+Gomes+73+Vila+Cl%C3%A1udia+Limeira+SP
+- Região atendida: Limeira e cidades vizinhas (Iracemápolis, Cordeirópolis, Araras, Engenheiro Coelho, Americana)
+
+## Especialidades
+
+- Estética dental: clareamento, facetas e restaurações estéticas.
+- Implantes dentários e próteses: próteses fixas, removíveis e sobre implantes (sistemas Dentatus e Bicon, EUA).
+- ATM e dor orofacial: diagnóstico e tratamento de DTM (disfunção temporomandibular), bruxismo, dores na face e dor de cabeça.
+- Ronco e apneia do sono: aparelho oral Silent, feito sob medida, que posiciona a mandíbula levemente para a frente e abre as vias aéreas.
+
+## Formação do Dr. Paulo Lenci
+
+- Graduação em Odontologia pela Unicamp.
+- Especialização em Radiologia, Ortopedia Funcional dos Maxilares e Disfunção da ATM e Dor Orofacial.
+- Aperfeiçoamento em Implantologia, enxertos ósseos, prótese sobre implantes, estética dental e prevenção da má-oclusão.
+- Estágios: Centro Planas de Reabilitação Neuro-Oclusal (Barcelona, Espanha); Centro de Desordens Mandibulares e Dor Orofacial (Lexington, EUA); estágios clínicos em Saint Petersburg, Los Angeles e San Diego.
+
+## Como agendar
+
+Pelo formulário do site (https://arleidev.github.io/drpaulolenci/#agendamento): o paciente escolhe a especialidade, os dias e o período, e a mensagem é enviada pronta ao WhatsApp do consultório, que confirma o horário. Também é possível ligar ou chamar no (19) 98938-5757.
+
+## Páginas
+
+- [Início](https://arleidev.github.io/drpaulolenci/): apresentação, especialidades, casos reais, agendamento e mapa.
+- [Dúvidas frequentes](https://arleidev.github.io/drpaulolenci/#duvidas)
+- [Aparelho Silent para ronco e apneia](https://arleidev.github.io/drpaulolenci/#silent)

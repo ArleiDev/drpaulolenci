@@ -774,3 +774,25 @@ svg { width: 1em; height: 1em; fill: none; stroke: currentColor; stroke-width: 2
   .hotspot { width: 28px; height: 28px; }
   .silent__text .btn { width: 100%; white-space: normal; }
 }
+
+/* ============ SUBTÍTULO DE SEÇÃO ============ */
+.section__sub { color: var(--muted); max-width: 640px; margin: 4px 0 0; }
+
+/* ============ PERGUNTAS FREQUENTES ============ */
+.faq { display: grid; grid-template-columns: .8fr 1.2fr; gap: 56px; align-items: start; }
+.faq__head { position: sticky; top: 110px; }
+.faq__head p { color: var(--muted); }
+.faq__head a { color: var(--blue-600); font-weight: 700; }
+.faq__list { display: grid; gap: 12px; }
+.faq__list details { background: #fff; border: 1px solid var(--line); border-radius: var(--radius-sm); transition: border-color .25s, box-shadow .25s; }
+.faq__list details[open] { border-color: var(--blue-200); box-shadow: 0 14px 34px -22px rgba(11,31,77,.35); }
+.faq__list summary { list-style: none; cursor: pointer; padding: 18px 56px 18px 22px; font-weight: 700; color: var(--ink); position: relative; }
+.faq__list summary::-webkit-details-marker { display: none; }
+.faq__list summary::after { content: ""; position: absolute; right: 22px; top: 50%; width: 22px; height: 22px; margin-top: -11px; border-radius: 50%;
+  background: var(--blue-50) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%232563eb' stroke-width='3' stroke-linecap='round'%3E%3Cpath d='M12 6v12M6 12h12'/%3E%3C/svg%3E") center/12px no-repeat; transition: transform .25s; }
+.faq__list details[open] summary::after { transform: rotate(45deg); }
+.faq__list details p { margin: 0; padding: 0 22px 20px; color: var(--muted); }
+@media (max-width: 900px) {
+  .faq { grid-template-columns: 1fr; gap: 28px; }
+  .faq__head { position: static; }
+}
