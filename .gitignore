@@ -1,0 +1,9 @@
+# Só o site vai para o repositório
+/*.mp4
+/_video/
+/video-feed/
+/posts-instagram/
+/.claude/
+node_modules/
+/assets/img/dr-paulo-1.webp
+/assets/img/dr-paulo-2.webp
