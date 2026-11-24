@@ -26,4 +26,4 @@ Allow: /
 User-agent: Bingbot
 Allow: /
 
-Sitemap: https://arleidev.github.io/drpaulolenci/sitemap.xml
+Sitemap: https://drpaulolenci.com.br/sitemap.xml

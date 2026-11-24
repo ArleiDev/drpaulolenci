@@ -9,7 +9,7 @@
 - Endereço: Rua João Machado Gomes, 73 – Vila Cláudia, Limeira – SP, Brasil
 - Telefone e WhatsApp: (19) 98938-5757 · https://wa.me/5519989385757
 - Horário: segunda a sexta, 08:00–11:30 e 13:30–17:00. Sábado e domingo fechado.
-- Site: https://arleidev.github.io/drpaulolenci/
+- Site: https://drpaulolenci.com.br/
 - Como chegar (Google Maps): https://www.google.com/maps/dir/?api=1&destination=Rua+Jo%C3%A3o+Machado+Gomes+73+Vila+Cl%C3%A1udia+Limeira+SP
 - Região atendida: Limeira e cidades vizinhas (Iracemápolis, Cordeirópolis, Araras, Engenheiro Coelho, Americana)
 
@@ -29,10 +29,10 @@
 
 ## Como agendar
 
-Pelo formulário do site (https://arleidev.github.io/drpaulolenci/#agendamento): o paciente escolhe a especialidade, os dias e o período, e a mensagem é enviada pronta ao WhatsApp do consultório, que confirma o horário. Também é possível ligar ou chamar no (19) 98938-5757.
+Pelo formulário do site (https://drpaulolenci.com.br/#agendamento): o paciente escolhe a especialidade, os dias e o período, e a mensagem é enviada pronta ao WhatsApp do consultório, que confirma o horário. Também é possível ligar ou chamar no (19) 98938-5757.
 
 ## Páginas
 
-- [Início](https://arleidev.github.io/drpaulolenci/): apresentação, especialidades, casos reais, agendamento e mapa.
-- [Dúvidas frequentes](https://arleidev.github.io/drpaulolenci/#duvidas)
-- [Aparelho Silent para ronco e apneia](https://arleidev.github.io/drpaulolenci/#silent)
+- [Início](https://drpaulolenci.com.br/): apresentação, especialidades, casos reais, agendamento e mapa.
+- [Dúvidas frequentes](https://drpaulolenci.com.br/#duvidas)
+- [Aparelho Silent para ronco e apneia](https://drpaulolenci.com.br/#silent)
